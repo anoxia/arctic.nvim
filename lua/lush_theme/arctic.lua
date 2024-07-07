@@ -4,7 +4,7 @@
 local lush = require('lush')
 
 local norm_fg = '#D4D4D4'
-local norm_bg = '#1E1E1E'
+local norm_bg = '#181818'
 
 local dark_red = '#D16969'
 local orange = '#f9ae28'
